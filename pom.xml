@@ -7,7 +7,7 @@
     <groupId>mk.ukim.finki</groupId>
     <artifactId>flink_book</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+dadasdasd
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <flink.version>1.10.0</flink.version>
@@ -17,7 +17,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
     </properties>
 
-
+dasdasdasdasd
     <dependencies>
         <!-- Apache Flink dependencies -->
         <!-- These dependencies are provided, because they should not be packaged into the JAR file. -->
